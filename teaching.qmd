@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+<!-- One line per course. To link a PDF of a syllabus, put the PDF in this folder and
+     write [Syllabus](pos2041-syllabus.pdf); Quarto copies linked files into docs/. -->
+
+I TA courses in Comparative politics and research methods.
+
+## Instructor of Record
+
+
+
+## Teaching Assistant
+
+Authoritarian Politics, Florida State University, 2025–2026.
+
+Chinese Politics, Florida State University, 2026-2027.
